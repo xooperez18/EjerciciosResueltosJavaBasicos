@@ -42,7 +42,8 @@ que introdujo el usuario con un texto Por ejemplo
 El resultado de la suma de a + b es: 
 #### Reto:
 Si el usuario escribe 8 y 12, ¿qué resultado esperas que aparezca?
-
+8 + 12 = 20
+"La suma es 20” o simplemente 20 o “La suma de 8 y 12 es 20.”
 ### 🧠 Ejercicio 3: Número par o impar
 
 #### Planteamiento:
@@ -83,9 +84,19 @@ R = Serian comparacio (>, <, ==).
 ¿Qué resultados posibles existen?
 R = Primer número mayo , Segundo número mayor e iguales
 ¿Qué mensaje mostrarías en cada caso?
-
+Si el primero es mayor → “El primer número es mayor.”
+Si el segundo es mayor → “El segundo número es mayor.”
+Si son iguales → “Ambos números son iguales.”
 #### Reto:
 Si tienes los números 10 y 15, ¿qué debería decir el programa?
+10 > 15  No
+15 > 10  Sí
+“El segundo número es mayor.”
+| Primer número | Segundo número |     Resultado esperado     |
+| :-----------: | :------------: | :------------------------: |
+|       10      |       15       | El segundo número es mayor |
+|       20      |        5       |  El primer número es mayor |
+|       7       |        7       |  Ambos números son iguales |
 
 ### 🧠 Ejercicio 5: Tabla de multiplicar
 
